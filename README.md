@@ -6,7 +6,7 @@ The Transfer Certificate Verification System is a web-based application develope
 
 The primary objective of this system is to enable institutions to verify the authenticity of TCs submitted by applicants from different institutions. By implementing this system, educational boards can ensure the accuracy of educational credentials and prevent fraudulent submissions.
 
-
+From Home page go to /TC
 
 ![r](https://github.com/RudraHarsh/Transfer-certificate-verify-system/assets/133790814/3f62257f-d876-4924-95a8-d6f58d1a2ca0)
 
