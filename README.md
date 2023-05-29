@@ -11,7 +11,7 @@ From Home page go to /TC
 ![r](https://github.com/RudraHarsh/Transfer-certificate-verify-system/assets/133790814/3f62257f-d876-4924-95a8-d6f58d1a2ca0)
 
 
-
+The TC will be uploded using phpmyadmin
 
 Key Features:
 
